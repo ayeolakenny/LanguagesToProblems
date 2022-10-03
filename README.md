@@ -1,8 +1,8 @@
 # LanguagesToProblems
 Welcome to LanguagesToProblems:
 
-This is especially an open-source project for all the new beginners.
-Choose any language  as mentioned below:
+This is an open-source project especially for all beginners.
+Choose any of the mentioned languages:
 
 <b>Languages supported</b>:
 
@@ -20,18 +20,19 @@ Kotlin
 
 Dart
 
+
 ## Create a Data Structure or an algorithm / Competetive Programming Problem / Language- Usage simple problems and code it
 
 ## Guidelines for this project :
 
-Mention the issue
+1. Mention the issue
 
-Fork this repository 
+2. Fork this repository 
 
-Create your branch , modify your content
+3. Create your branch , modify your content
 
-Create a pull request and you are ready to go !! for your first PR
+4. Create a pull request and you are ready to go !! for your first PR
 
-Give it a star
+5. Give it a star
 
 
